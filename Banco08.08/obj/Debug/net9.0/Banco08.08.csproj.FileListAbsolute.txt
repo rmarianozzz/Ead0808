@@ -1,0 +1,14 @@
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Banco08.08\bin\Debug\net9.0\Banco08.08.exe
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Banco08.08\bin\Debug\net9.0\Banco08.08.deps.json
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Banco08.08\bin\Debug\net9.0\Banco08.08.runtimeconfig.json
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Banco08.08\bin\Debug\net9.0\Banco08.08.dll
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Banco08.08\bin\Debug\net9.0\Banco08.08.pdb
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Banco08.08\obj\Debug\net9.0\Banco08.08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Banco08.08\obj\Debug\net9.0\Banco08.08.AssemblyInfoInputs.cache
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Banco08.08\obj\Debug\net9.0\Banco08.08.AssemblyInfo.cs
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Banco08.08\obj\Debug\net9.0\Banco08.08.csproj.CoreCompileInputs.cache
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Banco08.08\obj\Debug\net9.0\Banco08.08.dll
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Banco08.08\obj\Debug\net9.0\refint\Banco08.08.dll
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Banco08.08\obj\Debug\net9.0\Banco08.08.pdb
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Banco08.08\obj\Debug\net9.0\Banco08.08.genruntimeconfig.cache
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Banco08.08\obj\Debug\net9.0\ref\Banco08.08.dll
